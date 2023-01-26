@@ -1,4 +1,4 @@
 # Trash-Tashy
 git add .  
-git commit -m "Update wal"  
+git commit -m "Update wa"  
 git push  
