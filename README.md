@@ -1,4 +1,4 @@
 # Trash-Tashy
-git add .
-git commit -m "Update readme"
-git push
+git add .  
+git commit -m "Update readme"  
+git push  
